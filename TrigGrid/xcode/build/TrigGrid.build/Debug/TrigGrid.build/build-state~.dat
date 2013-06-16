@@ -1,0 +1,260 @@
+TTrigGrid
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/TrigGrid.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/TrigGrid_Prefix-hcvimpvoxgjgapckrsqgfsbgttkb/TrigGrid_Prefix.pch.pth TrigGrid_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/TrigGridApp.o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/TrigGridApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/Circle.o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/Circle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/GridController.o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/GridController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/MacOS/TrigGrid normal i386
+cTouch /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c0000000050A27DA500000000000069F0
+t1352826277
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000050A27DA50000000000006730
+t1352826277
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000050A282540000000000081CB0
+t1352827476
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000050A2827E000000000002DAF0
+t1352827518
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000050A2828C00000000004A2D90
+t1352827532
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c0000000050A2828B0000000000322E20
+t1352827531
+s3288608
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/Circle.cpp
+c00000000510805150000000000000174
+t1359480085
+s372
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/GridController.cpp
+c00000000510805D3000000000000039A
+t1359480275
+s922
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/TrigGridApp.cpp
+c000000005107F3500000000000000333
+t1359475536
+s819
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/Info.plist
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/MacOS/TrigGrid
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/Circle.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/GridController.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/TrigGrid.LinkFileList
+c00000000510805D60000000000000196
+t1359480278
+s406
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/TrigGridApp.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/CinderApp.icns
+c000000005107EA9F000000000001BEB5
+t1359473311
+s114357
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/GridController.cpp
+c000000005107ECE700000000000000B5
+t1359473895
+s181
+
+N/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/TrigGrid_Prefix.pch
+c000000005107EA9F0000000000000093
+t1359473311
+s147
+i<Cocoa/Cocoa.h>
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c0000000050F5B6B700000000000024F0
+t1358280375
+s9456
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050F5B6B70000000000024D90
+t1358280375
+s150928
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c0000000050F5B6B700000000000060B4
+t1358280375
+s24756
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000050F5B6B700000000000001E5
+t1358280375
+s485
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000050F5B6B7000000000000E920
+t1358280375
+s59680
+
+N/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/TrigGrid_Prefix-hcvimpvoxgjgapckrsqgfsbgttkb/TrigGrid_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c000000005107EA9F000000000000034E
+t1359473311
+s846
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/Circle.cpp
+r0
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/GridController.cpp
+r0
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/TrigGridApp.cpp
+r0
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/GridController.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies747e12563db8b641^10af1b563db8b641^---0#1#0#--18"Check dependencies36"256E804F-C970-413A-8C95-120B07159F56-
+
+CCompileC ./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/Circle.o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/Circle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s381173078.159899
+e381173080.132330
+r1
+xCompileC
+x./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/Circle.o
+x/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/Circle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/Circle.cppdf1929563db8b641^ace221583db8b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/Circle.cpp0000000000000000^2840"CompileC ./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/Circle.o ../src/Circle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/TrigGrid_Prefix-hcvimpvoxgjgapckrsqgfsbgttkb/TrigGrid_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/Circle.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/Circle.dia -c /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/Circle.cpp -o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/Circle.o36"5E8C857A-22A9-407C-8F52-8A1EB29AB6C7-
+
+CCompileC ./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/GridController.o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/GridController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s381173078.159901
+e381173080.308307
+r1
+xCompileC
+x./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/GridController.o
+x/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/GridController.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/GridController.cpp9f1c29563db8b641^cced4e583db8b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/GridController.cpp0000000000000000^2888"CompileC ./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/GridController.o ../src/GridController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/TrigGrid_Prefix-hcvimpvoxgjgapckrsqgfsbgttkb/TrigGrid_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/GridController.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/GridController.dia -c /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/GridController.cpp -o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/GridController.o36"618DC87D-D25F-41DE-9413-950A33DDBB6D-
+
+CCompileC ./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/GridController.o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/GridController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC ./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/TrigGridApp.o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/TrigGridApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s381173078.159568
+e381173080.312745
+r1
+xCompileC
+x./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/TrigGridApp.o
+x/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/TrigGridApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/TrigGridApp.cpp6d1c29563db8b641^841050583db8b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/TrigGridApp.cpp0000000000000000^2870"CompileC ./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/TrigGridApp.o ../src/TrigGridApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/TrigGrid_Prefix-hcvimpvoxgjgapckrsqgfsbgttkb/TrigGrid_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/TrigGridApp.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/TrigGridApp.dia -c /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/../src/TrigGridApp.cpp -o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/TrigGridApp.o36"C76047CE-B038-42E5-8C07-0837606FF795-
+
+CCpResource CinderApp.icns ./build/Debug/TrigGrid.app/Contents/Resources/CinderApp.icns
+s381173078.124992
+e381173078.127337
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/TrigGrid.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy ./build/Debug/TrigGrid.app/Contents/Resources/CinderApp.icns350b20563db8b641^029a20563db8b641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/Resources/CinderApp.icns000000000080d041^441"CpResource CinderApp.icns ./build/Debug/TrigGrid.app/Contents/Resources/CinderApp.icns    cd /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/CinderApp.icns /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/Resources36"ED4E29F2-A72F-428C-B94F-9D4E9872B432-
+
+CLd /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/MacOS/TrigGrid normal i386
+s381173080.319638
+e381173080.624035
+r1
+xLd
+x/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/MacOS/TrigGrid
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/MacOS/TrigGrid43e751583db8b641^6ac19f583db8b641^---0#0#0#--1075"Ld ./build/Debug/TrigGrid.app/Contents/MacOS/TrigGrid normal i386    cd /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/build/Debug -F/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/build/Debug -filelist /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/Objects-normal/i386/TrigGrid.LinkFileList -mmacosx-version-min=10.5 ../../cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/MacOS/TrigGrid36"A7D6AF27-B726-42FE-8AA2-85CCEDF5B9E3-
+
+CProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/Info.plist Info.plist
+s381173078.112185
+e381173078.117527
+r1
+xProcessInfoPlistFile
+x/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistdec81c563db8b641^1d721f563db8b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/Info.plist0000000000000000^444"ProcessInfoPlistFile ./build/Debug/TrigGrid.app/Contents/Info.plist Info.plist    cd /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app/Contents/Info.plist36"057F5B44-B6C5-4A91-96C7-F57BC28B9020-
+
+CProcessPCH++ /Users/ariggs/Library/Developer/Xcode/DerivedData/TrigGrid-fbsrhjjlsosyyydnaobpngvmggiv/Index/PrecompiledHeaders/TrigGrid_Prefix-cgdicdqjljwtetadxwjgyfsafzno_ast/TrigGrid_Prefix.pch.pth TrigGrid_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/TrigGrid_Prefix-hcvimpvoxgjgapckrsqgfsbgttkb/TrigGrid_Prefix.pch.pth TrigGrid_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s381173078.135335
+e381173078.152975
+r1
+xProcessPCH++
+x/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/TrigGrid_Prefix-hcvimpvoxgjgapckrsqgfsbgttkb/TrigGrid_Prefix.pch.pth
+xTrigGrid_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Precompile TrigGrid_Prefix.pchf5b922563db8b641^172a27563db8b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/TrigGrid_Prefix.pch0000000000000000^2890"ProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/TrigGrid_Prefix-hcvimpvoxgjgapckrsqgfsbgttkb/TrigGrid_Prefix.pch.pth TrigGrid_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/TrigGrid-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/TrigGrid.build/Debug/TrigGrid.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/build/Debug --serialize-diagnostics /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/TrigGrid_Prefix-hcvimpvoxgjgapckrsqgfsbgttkb/TrigGrid_Prefix.pch.dia -c /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/TrigGrid_Prefix.pch -o /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/TrigGrid_Prefix-hcvimpvoxgjgapckrsqgfsbgttkb/TrigGrid_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/TrigGrid_Prefix-hcvimpvoxgjgapckrsqgfsbgttkb/TrigGrid_Prefix.pch.d36"94B7BB34-5170-437B-BAFB-B1AB64AC0C12-
+
+CTouch /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app
+s381173080.632029
+e381173080.637250
+r1
+xTouch
+x/Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Touch /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app51d8a1583db8b641^a724a3583db8b641^---0#0#0#--205"Touch ./build/Debug/TrigGrid.app    cd /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode    /usr/bin/touch -c /Users/ariggs/Documents/experiments/Cinder/TrigGrid/xcode/./build/Debug/TrigGrid.app36"0925D4E7-A2CE-4A7B-84E4-31A2E60E4EF2-
+

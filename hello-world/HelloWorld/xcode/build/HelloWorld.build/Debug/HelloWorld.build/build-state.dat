@@ -1,0 +1,197 @@
+THelloWorld
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/HelloWorld_Prefix-elspspfopajmfhcegbdaldhouxsc/HelloWorld_Prefix.pch.pth HelloWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/../src/HelloWorldApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld normal i386
+cTouch /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c0000000050A27DA500000000000069F0
+t1352826277
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000050A27DA50000000000006730
+t1352826277
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000050A282540000000000081CB0
+t1352827476
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000050A2827E000000000002DAF0
+t1352827518
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000050A2828C00000000004A2D90
+t1352827532
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c0000000050A2828B0000000000322E20
+t1352827531
+s3288608
+
+N/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/../src/HelloWorldApp.cpp
+c0000000050F969410000000000000AF0
+t1358522689
+s2800
+
+N/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Info.plist
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c0000000050F96944000000000000009C
+t1358522692
+s156
+
+N/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/CinderApp.icns
+c0000000050F96563000000000001BEB5
+t1358521699
+s114357
+
+N/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/HelloWorld_Prefix.pch
+c0000000050F965630000000000000093
+t1358521699
+s147
+i<Cocoa/Cocoa.h>
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F90F72900000000000000CC
+t1334900521
+s204
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c0000000050F5B6AE0000000000002400
+t1358280366
+s9216
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050F5B6AE0000000000023FF4
+t1358280366
+s147444
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c0000000050F5B6AE00000000000061F4
+t1358280366
+s25076
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000050F5B6AE00000000000001E5
+t1358280366
+s485
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000050F5B6AE000000000000E8A8
+t1358280366
+s59560
+
+N/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/HelloWorld_Prefix-elspspfopajmfhcegbdaldhouxsc/HelloWorld_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c0000000050F965630000000000000350
+t1358521699
+s848
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/../src/HelloWorldApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb58cb0c4a0a9b641^db85dec4a0a9b641^---0#1#0#--18"Check dependencies36"BD60042A-6824-41E8-A0C5-D9F5B50D0B8E-
+
+CCompileC ./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/../src/HelloWorldApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380215493.430083
+e380215497.186269
+r1
+xCompileC
+x./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o
+x/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/../src/HelloWorldApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/../src/HelloWorldApp.cpp4d2e6ec5a0a9b641^d26e30c9a0a9b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/../src/HelloWorldApp.cpp0000000000000000^3122"CompileC ./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o ../src/HelloWorldApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-project-headers.hmap -iquote../../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/build/Debug/include -I../../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/HelloWorld_Prefix-elspspfopajmfhcegbdaldhouxsc/HelloWorld_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.dia -c /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/../src/HelloWorldApp.cpp -o /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorldApp.o36"B226C132-0F12-44F7-A366-2AEED1224564-
+
+CCpResource CinderApp.icns ./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns
+s380215492.939852
+e380215492.971386
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy ./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns8fa8f0c4a0a9b641^04adf8c4a0a9b641^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns000000000080d041^487"CpResource CinderApp.icns ./build/Debug/HelloWorld.app/Contents/Resources/CinderApp.icns    cd /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/CinderApp.icns /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Resources36"3556173B-74B1-461B-988E-978F85DF390D-
+
+CLd /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld normal i386
+s380215497.196033
+e380215499.787650
+r1
+xLd
+x/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Link /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorldaed932c9a0a9b641^f4a3c9cba0a9b641^---0#0#0#--1162"Ld ./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld normal i386    cd /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/build/Debug -F/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/build/Debug -filelist /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -mmacosx-version-min=10.5 ../../../cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/MacOS/HelloWorld36"C310339C-7D5D-4EC5-B96D-919A3B11055A-
+
+CProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Info.plist Info.plist
+s380215492.929066
+e380215492.931937
+r1
+xProcessInfoPlistFile
+x/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist20ebedc4a0a9b641^2db5eec4a0a9b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/Info.plist0000000000000000^492"ProcessInfoPlistFile ./build/Debug/HelloWorld.app/Contents/Info.plist Info.plist    cd /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app/Contents/Info.plist36"07532901-6C64-4034-B745-A8E1FEC14B74-
+
+CProcessPCH++ /Users/ariggs/Library/Developer/Xcode/DerivedData/HelloWorld-ezawqngldiwzlbakfwdvrybutwhr/Index/PrecompiledHeaders/HelloWorld_Prefix-hcwqjzddorkdwkgsznalrtsrtqpw_ast/HelloWorld_Prefix.pch.pth HelloWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/HelloWorld_Prefix-elspspfopajmfhcegbdaldhouxsc/HelloWorld_Prefix.pch.pth HelloWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380215492.979405
+e380215493.423544
+r1
+xProcessPCH++
+x/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/HelloWorld_Prefix-elspspfopajmfhcegbdaldhouxsc/HelloWorld_Prefix.pch.pth
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile HelloWorld_Prefix.pch55defac4a0a9b641^946d6cc5a0a9b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/HelloWorld_Prefix.pch0000000000000000^3088"ProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/HelloWorld_Prefix-elspspfopajmfhcegbdaldhouxsc/HelloWorld_Prefix.pch.pth HelloWorld_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-project-headers.hmap -iquote../../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/build/Debug/include -I../../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/build/Debug --serialize-diagnostics /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/HelloWorld_Prefix-elspspfopajmfhcegbdaldhouxsc/HelloWorld_Prefix.pch.dia -c /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/HelloWorld_Prefix.pch -o /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/HelloWorld_Prefix-elspspfopajmfhcegbdaldhouxsc/HelloWorld_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/HelloWorld_Prefix-elspspfopajmfhcegbdaldhouxsc/HelloWorld_Prefix.pch.d36"17A0E7EB-72DB-4A77-8377-D0ED4653569A-
+
+CTouch /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app
+s380215499.795534
+e380215499.933528
+r1
+xTouch
+x/Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Touch /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.appb7b3cbcba0a9b641^26fceecba0a9b641^---0#0#0#--237"Touch ./build/Debug/HelloWorld.app    cd /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode    /usr/bin/touch -c /Users/ariggs/Documents/experiments/Cinder/hello-world/HelloWorld/xcode/./build/Debug/HelloWorld.app36"B67B4F88-93A2-4A2D-9102-35A5270E3C6E-
+

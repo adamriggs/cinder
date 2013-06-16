@@ -1,0 +1,249 @@
+TSec1Chap4
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/Sec1Chap4.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/Sec1Chap4_Prefix-aitvxgmiamdgbbcsjgsufhaegesg/Sec1Chap4_Prefix.pch.pth Sec1Chap4_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Particle.o /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Particle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/ParticleController.o /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/ParticleController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Sec1Chap4App.o /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Sec1Chap4App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/MacOS/Sec1Chap4 normal i386
+cTouch /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c0000000050A27DA500000000000069F0
+t1352826277
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000050A27DA50000000000006730
+t1352826277
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000050A282540000000000081CB0
+t1352827476
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000050A2827E000000000002DAF0
+t1352827518
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000050A2828C00000000004A2D90
+t1352827532
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c0000000050A2828B0000000000322E20
+t1352827531
+s3288608
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Particle.cpp
+c0000000050FEFB4400000000000004E5
+t1358887748
+s1253
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/ParticleController.cpp
+c0000000050FF00160000000000000526
+t1358888982
+s1318
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Sec1Chap4App.cpp
+c0000000050FF06A20000000000000B70
+t1358890658
+s2928
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/Info.plist
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/MacOS/Sec1Chap4
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Particle.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/ParticleController.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Sec1Chap4.LinkFileList
+c0000000050FF06A400000000000001C4
+t1358890660
+s452
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Sec1Chap4App.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/CinderApp.icns
+c0000000050FEE5A2000000000001BEB5
+t1358882210
+s114357
+
+N/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/Sec1Chap4_Prefix.pch
+c0000000050FEE5A20000000000000093
+t1358882210
+s147
+i<Cocoa/Cocoa.h>
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c0000000050F5B6B700000000000024F0
+t1358280375
+s9456
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050F5B6B70000000000024D90
+t1358280375
+s150928
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c0000000050F5B6B700000000000060B4
+t1358280375
+s24756
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000050F5B6B700000000000001E5
+t1358280375
+s485
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000050F5B6B7000000000000E920
+t1358280375
+s59680
+
+N/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/Sec1Chap4_Prefix-aitvxgmiamdgbbcsjgsufhaegesg/Sec1Chap4_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c0000000050FEE5A2000000000000034F
+t1358882210
+s847
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Particle.cpp
+r0
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/ParticleController.cpp
+r0
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Sec1Chap4App.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies603aad243eafb641^05a302253eafb641^---0#1#0#--18"Check dependencies36"F11291A6-C8D7-41B4-B492-85FB48B64723-
+
+CCompileC ./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Particle.o /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Particle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380583462.011305
+e380583465.159566
+r1
+xCompileC
+x./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Particle.o
+x/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Particle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Particle.cpp7ffb02263eafb641^0ed928293eafb641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Particle.cpp0000000000000000^3027"CompileC ./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Particle.o ../src/Particle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-project-headers.hmap -iquote../../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/build/Debug/include -I../../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/Sec1Chap4_Prefix-aitvxgmiamdgbbcsjgsufhaegesg/Sec1Chap4_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Particle.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Particle.dia -c /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Particle.cpp -o /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Particle.o36"68E2D386-54C4-47E5-83AD-5F012084BBAA-
+
+CCompileC ./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/ParticleController.o /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/ParticleController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380583462.011316
+e380583465.155692
+r1
+xCompileC
+x./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/ParticleController.o
+x/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/ParticleController.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/ParticleController.cppdbf902263eafb641^d3db27293eafb641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/ParticleController.cpp0000000000000000^3087"CompileC ./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/ParticleController.o ../src/ParticleController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-project-headers.hmap -iquote../../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/build/Debug/include -I../../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/Sec1Chap4_Prefix-aitvxgmiamdgbbcsjgsufhaegesg/Sec1Chap4_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/ParticleController.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/ParticleController.dia -c /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/ParticleController.cpp -o /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/ParticleController.o36"35A19A26-6D19-4470-B419-AE060B0EB8AB-
+
+CCompileC ./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Sec1Chap4App.o /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Sec1Chap4App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380583462.011314
+e380583465.011939
+r1
+xCompileC
+x./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Sec1Chap4App.o
+x/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Sec1Chap4App.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Sec1Chap4App.cppcaf902263eafb641^e50e03293eafb641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Sec1Chap4App.cpp0000000000000000^3051"CompileC ./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Sec1Chap4App.o ../src/Sec1Chap4App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-project-headers.hmap -iquote../../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/build/Debug/include -I../../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/Sec1Chap4_Prefix-aitvxgmiamdgbbcsjgsufhaegesg/Sec1Chap4_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Sec1Chap4App.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Sec1Chap4App.dia -c /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/../src/Sec1Chap4App.cpp -o /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Sec1Chap4App.o36"9583C512-1BFA-4623-ADA4-2617EA3807FB-
+
+CCpResource CinderApp.icns ./build/Debug/Sec1Chap4.app/Contents/Resources/CinderApp.icns
+s380583461.024845
+e380583461.027390
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/Sec1Chap4.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy ./build/Debug/Sec1Chap4.app/Contents/Resources/CinderApp.icns3f6f06253eafb641^142307253eafb641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/Resources/CinderApp.icns000000000080d041^476"CpResource CinderApp.icns ./build/Debug/Sec1Chap4.app/Contents/Resources/CinderApp.icns    cd /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/CinderApp.icns /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/Resources36"E2A72C16-641E-4FFD-BDE3-2D2B8A4055DF-
+
+CLd /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/MacOS/Sec1Chap4 normal i386
+s380583465.166460
+e380583466.705019
+r1
+xLd
+x/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/MacOS/Sec1Chap4
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/MacOS/Sec1Chap471ad2a293eafb641^4e7db42a3eafb641^---0#0#0#--1140"Ld ./build/Debug/Sec1Chap4.app/Contents/MacOS/Sec1Chap4 normal i386    cd /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/build/Debug -F/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/build/Debug -filelist /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Objects-normal/i386/Sec1Chap4.LinkFileList -mmacosx-version-min=10.5 ../../../cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/MacOS/Sec1Chap436"B2BD7066-1EA9-4BDD-AEDC-639DEEF7F40E-
+
+CProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/Info.plist Info.plist
+s380583461.014102
+e380583461.016783
+r1
+xProcessInfoPlistFile
+x/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist61a803253eafb641^b16a04253eafb641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/Info.plist0000000000000000^480"ProcessInfoPlistFile ./build/Debug/Sec1Chap4.app/Contents/Info.plist Info.plist    cd /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app/Contents/Info.plist36"E468E75A-171D-4CB2-8216-5E3BAEBDBEE4-
+
+CProcessPCH++ /Users/ariggs/Library/Developer/Xcode/DerivedData/Sec1Chap4-cyiyodbhnfujqqdwwgivfjgscxvg/Index/PrecompiledHeaders/Sec1Chap4_Prefix-gzzjtnuurgwxgacgjfyfeblwavsd_ast/Sec1Chap4_Prefix.pch.pth Sec1Chap4_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/Sec1Chap4_Prefix-aitvxgmiamdgbbcsjgsufhaegesg/Sec1Chap4_Prefix.pch.pth Sec1Chap4_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380583461.043843
+e380583462.004467
+r1
+xProcessPCH++
+x/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/Sec1Chap4_Prefix-aitvxgmiamdgbbcsjgsufhaegesg/Sec1Chap4_Prefix.pch.pth
+xSec1Chap4_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile Sec1Chap4_Prefix.pchef550b253eafb641^af2401263eafb641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/Sec1Chap4_Prefix.pch0000000000000000^3032"ProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/Sec1Chap4_Prefix-aitvxgmiamdgbbcsjgsufhaegesg/Sec1Chap4_Prefix.pch.pth Sec1Chap4_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/Sec1Chap4-project-headers.hmap -iquote../../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/build/Debug/include -I../../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Sec1Chap4.build/Debug/Sec1Chap4.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/build/Debug --serialize-diagnostics /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/Sec1Chap4_Prefix-aitvxgmiamdgbbcsjgsufhaegesg/Sec1Chap4_Prefix.pch.dia -c /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/Sec1Chap4_Prefix.pch -o /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/Sec1Chap4_Prefix-aitvxgmiamdgbbcsjgsufhaegesg/Sec1Chap4_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/Sec1Chap4_Prefix-aitvxgmiamdgbbcsjgsufhaegesg/Sec1Chap4_Prefix.pch.d36"0019B66D-691C-4C61-A932-9EDA3B9DC3B8-
+
+CTouch /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app
+s380583466.713240
+e380583466.824242
+r1
+xTouch
+x/Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Touch /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app23a4b62a3eafb641^6501d32a3eafb641^---0#0#0#--229"Touch ./build/Debug/Sec1Chap4.app    cd /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode    /usr/bin/touch -c /Users/ariggs/Documents/experiments/Cinder/tutorials/Sec1Chap4/xcode/./build/Debug/Sec1Chap4.app36"AE27B645-70E8-485E-925E-2580BD4AD38B-
+

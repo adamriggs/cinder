@@ -1,0 +1,249 @@
+TMusicVisualization
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/MusicVisualization.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/MusicVisualization_Prefix-ctihtwcsqysddphgegymwwnlhvlz/MusicVisualization_Prefix.pch.pth MusicVisualization_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/CircleController.o /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/CircleController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/MusicVisualizationApp.o /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/MusicVisualizationApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/Circle.o /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/Circle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/MacOS/MusicVisualization normal i386
+cTouch /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c0000000050A27DA500000000000069F0
+t1352826277
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000050A27DA50000000000006730
+t1352826277
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000050A282540000000000081CB0
+t1352827476
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000050A2827E000000000002DAF0
+t1352827518
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000050A2828C00000000004A2D90
+t1352827532
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c0000000050A2828B0000000000322E20
+t1352827531
+s3288608
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/Circle.cpp
+c0000000051089CA10000000000000235
+t1359518881
+s565
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/CircleController.cpp
+c000000005108993D0000000000000385
+t1359518013
+s901
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/MusicVisualizationApp.cpp
+c0000000051094B03000000000000029C
+t1359563523
+s668
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/Info.plist
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/MacOS/MusicVisualization
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/Circle.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/CircleController.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/MusicVisualization.LinkFileList
+c0000000051094B0400000000000001FC
+t1359563524
+s508
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/MusicVisualizationApp.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/CinderApp.icns
+c000000005109496B000000000001BEB5
+t1359563115
+s114357
+
+N/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/MusicVisualization_Prefix.pch
+c000000005109496B0000000000000093
+t1359563115
+s147
+i<Cocoa/Cocoa.h>
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c0000000050F5B6B700000000000024F0
+t1358280375
+s9456
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050F5B6B70000000000024D90
+t1358280375
+s150928
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c0000000050F5B6B700000000000060B4
+t1358280375
+s24756
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000050F5B6B700000000000001E5
+t1358280375
+s485
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000050F5B6B7000000000000E920
+t1358280375
+s59680
+
+N/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/MusicVisualization_Prefix-ctihtwcsqysddphgegymwwnlhvlz/MusicVisualization_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c000000005109496B0000000000000358
+t1359563115
+s856
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/Circle.cpp
+r0
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/CircleController.cpp
+r0
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/MusicVisualizationApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf5f1b48482b9b641^26fdbd8482b9b641^---0#1#0#--18"Check dependencies36"710DCCE3-6D4D-4CE3-BD2B-2F3545BD203C-
+
+CCompileC ./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/Circle.o /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/Circle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s381256325.296584
+e381256327.914684
+r1
+xCompileC
+x./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/Circle.o
+x/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/Circle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/Circle.cpp43044c8582b9b641^6329ea8782b9b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/Circle.cpp0000000000000000^3230"CompileC ./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/Circle.o ../src/Circle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/MusicVisualization_Prefix-ctihtwcsqysddphgegymwwnlhvlz/MusicVisualization_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/Circle.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/Circle.dia -c /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/Circle.cpp -o /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/Circle.o36"BBA52D26-A1A2-4F9D-9EED-77D90ACDFFF6-
+
+CCompileC ./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/CircleController.o /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/CircleController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s381256325.296577
+e381256327.954929
+r1
+xCompileC
+x./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/CircleController.o
+x/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/CircleController.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/CircleController.cpp2a024c8582b9b641^8e76f48782b9b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/CircleController.cpp0000000000000000^3290"CompileC ./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/CircleController.o ../src/CircleController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/MusicVisualization_Prefix-ctihtwcsqysddphgegymwwnlhvlz/MusicVisualization_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/CircleController.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/CircleController.dia -c /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/CircleController.cpp -o /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/CircleController.o36"FDE8F3D1-8CA2-4D32-94EA-706CBF2B60F2-
+
+CCompileC ./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/MusicVisualizationApp.o /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/MusicVisualizationApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s381256325.296581
+e381256327.955329
+r1
+xCompileC
+x./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/MusicVisualizationApp.o
+x/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/MusicVisualizationApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/MusicVisualizationApp.cpp3a024c8582b9b641^d690f48782b9b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/MusicVisualizationApp.cpp0000000000000000^3320"CompileC ./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/MusicVisualizationApp.o ../src/MusicVisualizationApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/MusicVisualization_Prefix-ctihtwcsqysddphgegymwwnlhvlz/MusicVisualization_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/MusicVisualizationApp.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/MusicVisualizationApp.dia -c /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/../src/MusicVisualizationApp.cpp -o /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/MusicVisualizationApp.o36"3646EFF4-DBA0-4945-8A77-EA345D4D9D41-
+
+CCpResource CinderApp.icns ./build/Debug/MusicVisualization.app/Contents/Resources/CinderApp.icns
+s381256324.784305
+e381256324.800025
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/MusicVisualization.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy ./build/Debug/MusicVisualization.app/Contents/Resources/CinderApp.icns35d4c88482b9b641^44a4da8482b9b641^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/Resources/CinderApp.icns000000000080d041^491"CpResource CinderApp.icns ./build/Debug/MusicVisualization.app/Contents/Resources/CinderApp.icns    cd /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/CinderApp.icns /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/Resources36"5EF17011-F772-4D23-9F2F-D45C28361A82-
+
+CLd /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/MacOS/MusicVisualization normal i386
+s381256327.961748
+e381256330.196295
+r1
+xLd
+x/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/MacOS/MusicVisualization
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Link /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/MacOS/MusicVisualizationaa43f68782b9b641^a740328a82b9b641^---0#0#0#--1195"Ld ./build/Debug/MusicVisualization.app/Contents/MacOS/MusicVisualization normal i386    cd /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/build/Debug -F/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/build/Debug -filelist /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/Objects-normal/i386/MusicVisualization.LinkFileList -mmacosx-version-min=10.5 ../../cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/MacOS/MusicVisualization36"75E01EB9-00FC-4252-B83C-FCB4452296CA-
+
+CProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/Info.plist Info.plist
+s381256324.745998
+e381256324.776387
+r1
+xProcessInfoPlistFile
+x/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistde04bf8482b9b641^34a0da8482b9b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/Info.plist0000000000000000^504"ProcessInfoPlistFile ./build/Debug/MusicVisualization.app/Contents/Info.plist Info.plist    cd /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app/Contents/Info.plist36"3E41DF4E-178C-4BE2-A629-9144EFEFEEDB-
+
+CProcessPCH++ /Users/ariggs/Library/Developer/Xcode/DerivedData/MusicVisualization-drrwogdbpobtcqfetgrnedfkfmly/Index/PrecompiledHeaders/MusicVisualization_Prefix-gcxkqovyytiolocysvzpwuhqntjv_ast/MusicVisualization_Prefix.pch.pth MusicVisualization_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/MusicVisualization_Prefix-ctihtwcsqysddphgegymwwnlhvlz/MusicVisualization_Prefix.pch.pth MusicVisualization_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s381256324.807968
+e381256325.289956
+r1
+xProcessPCH++
+x/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/MusicVisualization_Prefix-ctihtwcsqysddphgegymwwnlhvlz/MusicVisualization_Prefix.pch.pth
+xMusicVisualization_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile MusicVisualization_Prefix.pch0bebce8482b9b641^b03a4a8582b9b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/MusicVisualization_Prefix.pch0000000000000000^3250"ProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/MusicVisualization_Prefix-ctihtwcsqysddphgegymwwnlhvlz/MusicVisualization_Prefix.pch.pth MusicVisualization_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/MusicVisualization-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/MusicVisualization.build/Debug/MusicVisualization.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/build/Debug --serialize-diagnostics /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/MusicVisualization_Prefix-ctihtwcsqysddphgegymwwnlhvlz/MusicVisualization_Prefix.pch.dia -c /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/MusicVisualization_Prefix.pch -o /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/MusicVisualization_Prefix-ctihtwcsqysddphgegymwwnlhvlz/MusicVisualization_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/MusicVisualization_Prefix-ctihtwcsqysddphgegymwwnlhvlz/MusicVisualization_Prefix.pch.d36"FC3C5626-CA90-4A6D-823F-9800F0B7F0D9-
+
+CTouch /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app
+s381256330.204326
+e381256330.270503
+r1
+xTouch
+x/Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Touch /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.appa35a348a82b9b641^9a40458a82b9b641^---0#0#0#--245"Touch ./build/Debug/MusicVisualization.app    cd /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode    /usr/bin/touch -c /Users/ariggs/Documents/experiments/Cinder/MusicVisualization/xcode/./build/Debug/MusicVisualization.app36"1EA79C51-2F54-4421-B9AF-A67C91ACCF64-
+

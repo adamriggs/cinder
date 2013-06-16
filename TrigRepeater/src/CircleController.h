@@ -1,0 +1,25 @@
+//
+//  CircleController.h
+//  TrigRepeater
+//
+//  Created by Adam Riggs on 1/29/13.
+//
+//
+
+#pragma once
+#include "Circle.h"
+#include <vector>
+
+class CircleController {
+    
+public:
+    CircleController();
+    CircleController(int num);
+    void update();
+    void draw();
+    
+    int     mNumCircles;
+    int     mCircleStepper;
+    
+    std::vector<Circle> circles;
+};

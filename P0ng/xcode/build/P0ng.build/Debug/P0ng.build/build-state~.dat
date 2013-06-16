@@ -1,0 +1,223 @@
+TP0ng
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/P0ng.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/P0ng_Prefix-dkcllugnekhsqrgecdjhuanbwkfe/P0ng_Prefix.pch.pth P0ng_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/P0ngApp.o /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/P0ngApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/Ball.o /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/Ball.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/MacOS/P0ng normal i386
+cTouch /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c0000000050A27DA500000000000069F0
+t1352826277
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000050A27DA50000000000006730
+t1352826277
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000050A282540000000000081CB0
+t1352827476
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000050A2827E000000000002DAF0
+t1352827518
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000050A2828C00000000004A2D90
+t1352827532
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c0000000050A2828B0000000000322E20
+t1352827531
+s3288608
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/Ball.cpp
+c00000000510435AC0000000000000229
+t1359230380
+s553
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/P0ngApp.cpp
+c000000005104383F0000000000000261
+t1359231039
+s609
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/Info.plist
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/MacOS/P0ng
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/Ball.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/P0ng.LinkFileList
+c000000005104384100000000000000ED
+t1359231041
+s237
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/P0ngApp.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/CinderApp.icns
+c000000005101FEE1000000000001BEB5
+t1359085281
+s114357
+
+N/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/P0ng_Prefix.pch
+c000000005101FEE10000000000000093
+t1359085281
+s147
+i<Cocoa/Cocoa.h>
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c0000000050F5B6B700000000000024F0
+t1358280375
+s9456
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050F5B6B70000000000024D90
+t1358280375
+s150928
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c0000000050F5B6B700000000000060B4
+t1358280375
+s24756
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000050F5B6B700000000000001E5
+t1358280375
+s485
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000050F5B6B7000000000000E920
+t1358280375
+s59680
+
+N/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/P0ng_Prefix-dkcllugnekhsqrgecdjhuanbwkfe/P0ng_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c000000005101FEE1000000000000034A
+t1359085281
+s842
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/Ball.cpp
+r0
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/P0ngApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb648dac16fb4b641^a356dcc16fb4b641^---0#1#0#--18"Check dependencies36"3ED828C5-5193-4162-9427-9FF8579041EE-
+
+CCompileC ./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/Ball.o /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/Ball.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380923842.068843
+e380923843.863822
+r1
+xCompileC
+x./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/Ball.o
+x/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/Ball.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/Ball.cpp5eba11c26fb4b641^0724ddc36fb4b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/Ball.cpp0000000000000000^2672"CompileC ./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/Ball.o ../src/Ball.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/P0ng_Prefix-dkcllugnekhsqrgecdjhuanbwkfe/P0ng_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/Ball.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/Ball.dia -c /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/Ball.cpp -o /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/Ball.o36"49FA2DAF-0123-4392-B45E-D78B0A694606-
+
+CCompileC ./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/P0ngApp.o /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/P0ngApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380923842.068834
+e380923843.883052
+r1
+xCompileC
+x./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/P0ngApp.o
+x/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/P0ngApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/P0ngApp.cppc8b511c26fb4b641^5a10e2c36fb4b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/P0ngApp.cpp0000000000000000^2690"CompileC ./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/P0ngApp.o ../src/P0ngApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/P0ng_Prefix-dkcllugnekhsqrgecdjhuanbwkfe/P0ng_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/P0ngApp.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/P0ngApp.dia -c /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/../src/P0ngApp.cpp -o /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/P0ngApp.o36"671C8683-3DAC-42EA-93CA-D74F2C521454-
+
+CCpResource CinderApp.icns ./build/Debug/P0ng.app/Contents/Resources/CinderApp.icns
+s380923841.909306
+e380923841.933381
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/P0ng.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy ./build/Debug/P0ng.app/Contents/Resources/CinderApp.icnsfddce8c16fb4b641^30f2eec16fb4b641^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/Resources/CinderApp.icns000000000080d041^421"CpResource CinderApp.icns ./build/Debug/P0ng.app/Contents/Resources/CinderApp.icns    cd /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/CinderApp.icns /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/Resources36"5F2C259D-78F2-4ACE-9DE5-007E503ABED4-
+
+CLd /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/MacOS/P0ng normal i386
+s380923843.889751
+e380923845.754211
+r1
+xLd
+x/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/MacOS/P0ng
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Link /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/MacOS/P0ngf5dbe3c36fb4b641^a114c1c56fb4b641^---0#0#0#--1027"Ld ./build/Debug/P0ng.app/Contents/MacOS/P0ng normal i386    cd /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/build/Debug -F/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/build/Debug -filelist /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/Objects-normal/i386/P0ng.LinkFileList -mmacosx-version-min=10.5 ../../cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/MacOS/P0ng36"BAD7C3BE-D5EF-4433-805F-0DE41FFD3621-
+
+CProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/Info.plist Info.plist
+s380923841.888483
+e380923841.898629
+r1
+xProcessInfoPlistFile
+x/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist492ce5c16fb4b641^6b0ce6c16fb4b641^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/Info.plist0000000000000000^420"ProcessInfoPlistFile ./build/Debug/P0ng.app/Contents/Info.plist Info.plist    cd /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app/Contents/Info.plist36"0B5D6A92-A60F-4F0C-8002-6AC629A049A9-
+
+CProcessPCH++ /Users/ariggs/Library/Developer/Xcode/DerivedData/P0ng-grtlyzzkxaaxuhdpemgqlghozibr/Index/PrecompiledHeaders/P0ng_Prefix-axsntszozcnwjiasocvmmakfloth_ast/P0ng_Prefix.pch.pth P0ng_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/P0ng_Prefix-dkcllugnekhsqrgecdjhuanbwkfe/P0ng_Prefix.pch.pth P0ng_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380923841.941130
+e380923842.062495
+r1
+xProcessPCH++
+x/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/P0ng_Prefix-dkcllugnekhsqrgecdjhuanbwkfe/P0ng_Prefix.pch.pth
+xP0ng_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection26"Precompile P0ng_Prefix.pch8f37f1c16fb4b641^680710c26fb4b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/P0ng_Prefix.pch0000000000000000^2746"ProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/P0ng_Prefix-dkcllugnekhsqrgecdjhuanbwkfe/P0ng_Prefix.pch.pth P0ng_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/P0ng-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/P0ng.build/Debug/P0ng.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/build/Debug --serialize-diagnostics /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/P0ng_Prefix-dkcllugnekhsqrgecdjhuanbwkfe/P0ng_Prefix.pch.dia -c /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/P0ng_Prefix.pch -o /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/P0ng_Prefix-dkcllugnekhsqrgecdjhuanbwkfe/P0ng_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/P0ng_Prefix-dkcllugnekhsqrgecdjhuanbwkfe/P0ng_Prefix.pch.d36"D108F17C-D9E2-4957-8D61-B3D91C07AE0A-
+
+CTouch /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app
+s380923845.762465
+e380923845.845887
+r1
+xTouch
+x/Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Touch /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app1d3cc3c56fb4b641^a48cd8c56fb4b641^---0#0#0#--189"Touch ./build/Debug/P0ng.app    cd /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode    /usr/bin/touch -c /Users/ariggs/Documents/experiments/Cinder/P0ng/xcode/./build/Debug/P0ng.app36"C5C13339-F3DF-4DDC-BFB6-F6E1E02B317C-
+

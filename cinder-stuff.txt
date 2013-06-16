@@ -1,0 +1,11 @@
+c++:
+
+c++ without fear
+
+GL:
+GL Redbook
+GL Orangebook - just shaders
+
+gl tool:
+open gl profiler
+gDebugger

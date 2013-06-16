@@ -1,0 +1,248 @@
+TQuicktimeParticles
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/QuicktimeParticles.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/QuicktimeParticles_Prefix-gygpcqzjnetdkyfztlwakteajebr/QuicktimeParticles_Prefix.pch.pth QuicktimeParticles_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/QuicktimeParticlesApp.o /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/QuicktimeParticlesApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/ParticleController.o /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/ParticleController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/Particle.o /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/Particle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/MacOS/QuicktimeParticles normal i386
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c0000000050A27DA500000000000069F0
+t1352826277
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000050A27DA50000000000006730
+t1352826277
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000050A282540000000000081CB0
+t1352827476
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000050A2827E000000000002DAF0
+t1352827518
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000050A2828C00000000004A2D90
+t1352827532
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c0000000050A2828B0000000000322E20
+t1352827531
+s3288608
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/Particle.cpp
+c0000000050FD81E00000000000000473
+t1358791136
+s1139
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/ParticleController.cpp
+c000000004FADAEF7000000000000053D
+t1336782583
+s1341
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/QuicktimeParticlesApp.cpp
+c0000000050FDA2C800000000000007B2
+t1358799560
+s1970
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/Info.plist
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/MacOS/QuicktimeParticles
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/Particle.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/ParticleController.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/QuicktimeParticles.LinkFileList
+c0000000050FDA2CB0000000000000200
+t1358799563
+s512
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/QuicktimeParticlesApp.o
+t2
+s0
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/CinderApp.icns
+c0000000050FD9D63000000000001BEB5
+t1358798179
+s114357
+
+N/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/QuicktimeParticles_Prefix.pch
+c0000000050FD9D630000000000000093
+t1358798179
+s147
+i<Cocoa/Cocoa.h>
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c0000000050F5B6B700000000000024F0
+t1358280375
+s9456
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000050F5B6B70000000000024D90
+t1358280375
+s150928
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c0000000050F5B6B700000000000060B4
+t1358280375
+s24756
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000050F5B6B700000000000001E5
+t1358280375
+s485
+
+N/applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000050F5B6B7000000000000E920
+t1358280375
+s59680
+
+N/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/QuicktimeParticles_Prefix-gygpcqzjnetdkyfztlwakteajebr/QuicktimeParticles_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c0000000050FD9D630000000000000358
+t1358798179
+s856
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/Particle.cpp
+r0
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/ParticleController.cpp
+r0
+
+CBuild AST from /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/QuicktimeParticlesApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies99d8084bdaadb641^ae2a174bdaadb641^---0#1#0#--18"Check dependencies36"95979BE6-3C38-4219-B86A-CE437FE04581-
+
+CCompileC ./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/Particle.o /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/Particle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380492363.165849
+e380492366.091426
+r1
+xCompileC
+x./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/Particle.o
+x/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/Particle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/Particle.cpp8b362b4bdaadb641^b267174edaadb641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/Particle.cpp0000000000000000^3242"CompileC ./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/Particle.o ../src/Particle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/QuicktimeParticles_Prefix-gygpcqzjnetdkyfztlwakteajebr/QuicktimeParticles_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/Particle.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/Particle.dia -c /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/Particle.cpp -o /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/Particle.o36"390278C9-74D6-4732-A407-F2E6EDDDBC77-
+
+CCompileC ./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/ParticleController.o /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/ParticleController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380492363.165839
+e380492366.052793
+r1
+xCompileC
+x./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/ParticleController.o
+x/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/ParticleController.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/ParticleController.cpp6e352b4bdaadb641^4d840d4edaadb641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/ParticleController.cpp0000000000000000^3302"CompileC ./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/ParticleController.o ../src/ParticleController.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/QuicktimeParticles_Prefix-gygpcqzjnetdkyfztlwakteajebr/QuicktimeParticles_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/ParticleController.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/ParticleController.dia -c /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/ParticleController.cpp -o /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/ParticleController.o36"9435D7A0-2B47-405D-BD4A-4D54D643ED34-
+
+CCompileC ./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/QuicktimeParticlesApp.o /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/QuicktimeParticlesApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380492363.165830
+e380492365.859679
+r1
+xCompileC
+x./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/QuicktimeParticlesApp.o
+x/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/QuicktimeParticlesApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/QuicktimeParticlesApp.cppe8302b4bdaadb641^2b15dc4ddaadb641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/QuicktimeParticlesApp.cpp0000000000000000^3320"CompileC ./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/QuicktimeParticlesApp.o ../src/QuicktimeParticlesApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/build/Debug -include /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/QuicktimeParticles_Prefix-gygpcqzjnetdkyfztlwakteajebr/QuicktimeParticles_Prefix.pch -MMD -MT dependencies -MF /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/QuicktimeParticlesApp.d --serialize-diagnostics /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/QuicktimeParticlesApp.dia -c /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/../src/QuicktimeParticlesApp.cpp -o /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/QuicktimeParticlesApp.o36"51352E1F-FCCB-4CA7-8801-88AC7B12002C-
+
+CCpResource CinderApp.icns ./build/Debug/QuicktimeParticles.app/Contents/Resources/CinderApp.icns
+s380492363.114354
+e380492363.116526
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/QuicktimeParticles.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy ./build/Debug/QuicktimeParticles.app/Contents/Resources/CinderApp.icnsbc571d4bdaadb641^5ed51d4bdaadb641^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/Resources/CinderApp.icns000000000080d041^491"CpResource CinderApp.icns ./build/Debug/QuicktimeParticles.app/Contents/Resources/CinderApp.icns    cd /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/CinderApp.icns /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/Resources36"DAD0F725-F0CB-464F-9A0D-BCB8764A4F83-
+
+CLd /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/MacOS/QuicktimeParticles normal i386
+s380492366.100262
+e380492367.755389
+r0
+xLd
+x/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/MacOS/QuicktimeParticles
+xnormal
+xi386
+oUndefined symbols for architecture i386:
+o  "QuicktimeParticlesApp::keyDown(cinder::app::KeyEvent)", referenced from:
+o      vtable for QuicktimeParticlesApp in QuicktimeParticlesApp.o
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Link /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/MacOS/QuicktimeParticles5eba194edaadb641^c860c14fdaadb641^-309"Undefined symbols for architecture i386:  "QuicktimeParticlesApp::keyDown(cinder::app::KeyEvent)", referenced from:      vtable for QuicktimeParticlesApp in QuicktimeParticlesApp.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@73""QuicktimeParticlesApp::keyDown(cinder::app::KeyEvent)", referenced from:-380492367#41#76#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@59"Vtable for QuicktimeParticlesApp in QuicktimeParticlesApp.o-380492367#117#66#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@41"Symbol(s) not found for architecture i386-380492367#183#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-380492367#229#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--0#0#0#--1195"Ld ./build/Debug/QuicktimeParticles.app/Contents/MacOS/QuicktimeParticles normal i386    cd /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/build/Debug -F/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/build/Debug -filelist /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/Objects-normal/i386/QuicktimeParticles.LinkFileList -mmacosx-version-min=10.5 ../../cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/MacOS/QuicktimeParticles36"4252C2D1-F5B5-43DB-B2E0-3234652E27AC-
+
+CProcessInfoPlistFile /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/Info.plist Info.plist
+s380492363.103339
+e380492363.106215
+r1
+xProcessInfoPlistFile
+x/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistf88a1a4bdaadb641^d8471b4bdaadb641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/Info.plist0000000000000000^504"ProcessInfoPlistFile ./build/Debug/QuicktimeParticles.app/Contents/Info.plist Info.plist    cd /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app/Contents/Info.plist36"AC3F331E-024C-4948-B677-12DBE962440E-
+
+CProcessPCH++ /Users/ariggs/Library/Developer/Xcode/DerivedData/QuicktimeParticles-fwojngdaukuhldfeqksmzqndgzon/Index/PrecompiledHeaders/QuicktimeParticles_Prefix-bkrusnuaaqhcgtavuqfgowzihbva_ast/QuicktimeParticles_Prefix.pch.pth QuicktimeParticles_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/QuicktimeParticles_Prefix-gygpcqzjnetdkyfztlwakteajebr/QuicktimeParticles_Prefix.pch.pth QuicktimeParticles_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s380492363.131622
+e380492363.158049
+r1
+xProcessPCH++
+x/var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/QuicktimeParticles_Prefix-gygpcqzjnetdkyfztlwakteajebr/QuicktimeParticles_Prefix.pch.pth
+xQuicktimeParticles_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile QuicktimeParticles_Prefix.pch58cb214bdaadb641^287e284bdaadb641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/QuicktimeParticles_Prefix.pch0000000000000000^3250"ProcessPCH++ /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/QuicktimeParticles_Prefix-gygpcqzjnetdkyfztlwakteajebr/QuicktimeParticles_Prefix.pch.pth QuicktimeParticles_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode    setenv LANG en_US.US-ASCII    /applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.5 -g -Wno-sign-conversion -iquote /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-generated-files.hmap -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-own-target-headers.hmap -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-all-target-headers.hmap -iquote /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/QuicktimeParticles-project-headers.hmap -iquote../../cinder_0.8.4_mac/include -iquote../include -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/build/Debug/include -I../../cinder_0.8.4_mac/boost -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/DerivedSources/i386 -I/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/QuicktimeParticles.build/Debug/QuicktimeParticles.build/DerivedSources -F/Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/build/Debug --serialize-diagnostics /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/QuicktimeParticles_Prefix-gygpcqzjnetdkyfztlwakteajebr/QuicktimeParticles_Prefix.pch.dia -c /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/QuicktimeParticles_Prefix.pch -o /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/QuicktimeParticles_Prefix-gygpcqzjnetdkyfztlwakteajebr/QuicktimeParticles_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/87/rmxxp5_50m79ctmcsqtbd03s0z2lqp/C/com.apple.Xcode.1106333430/SharedPrecompiledHeaders/QuicktimeParticles_Prefix-gygpcqzjnetdkyfztlwakteajebr/QuicktimeParticles_Prefix.pch.d36"73EE8BA9-7966-4C4B-8F62-AB9702018582-
+
+CTouch /Users/ariggs/Documents/experiments/Cinder/QuicktimeParticles/xcode/./build/Debug/QuicktimeParticles.app
+r0
+
